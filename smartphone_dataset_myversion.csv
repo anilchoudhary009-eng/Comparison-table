@@ -1,4 +1,5 @@
 brand_name,model,price,rating,has_5g,has_nfc,has_ir_blaster,processor_brand,processor_num_cores,processor_speed,ram_capacity(GB),internal_memory(GB),battery_capacity,Fast_charging_available,fast_charging,screen_size(inches),screen_resolution(Px),refresh_rate(Hz),num_rear_cameras,num_front_cameras,primary_camera_rear,primary_camera_front,extended_memory_available,extended_memory,os
+Apple	iPhone 17 Pro Max, 1,49,990, TRUE,A19 Pro Chip, 6,12,256, 4300,1,120,3,1,48,18,0,iOS
 oneplus,OnePlus 11 5G,54999,89,TRUE,TRUE,FALSE,snapdragon,8,3.2,12,256,5000,1,100,6.7,1440âxâ3216â,120,3,1,50,16,0,,android
 oneplus,OnePlus Nord CE 2 Lite 5G,19989,81,TRUE,FALSE,FALSE,snapdragon,8,2.2,6,128,5000,1,33,6.59,1080âxâ2412â,120,3,1,64,16,1,1024,android
 samsung,Samsung Galaxy A14 5G,16499,75,TRUE,FALSE,FALSE,exynos,8,2.4,4,64,5000,1,15,6.6,1080âxâ2408â,90,3,1,50,13,1,1024,android
@@ -980,5 +981,6 @@ poco,POCO X4 GT 5G (8GB RAM + 256GB),28990,85,TRUE,TRUE,TRUE,dimensity,8,2.85,8,
 motorola,Motorola Moto G91 5G,19990,80,TRUE,TRUE,FALSE,snapdragon,8,2.2,6,128,5000,1,,6.8,1080âxâ2400â,60,3,1,108,32,1,1024,android
 iphone,iPhone 17 Pro Max, ,1,TRUE,900,12,A19 Pro (3nm),512,IOS
 samsung,Samsung Galaxy M52s 5G,24990,74,TRUE,FALSE,FALSE,,8,,8,128,5000,1,,6.5,1080âxâ2400â,60,3,1,64,32,1,1024,android
+
 
 
