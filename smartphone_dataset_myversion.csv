@@ -978,5 +978,6 @@ motorola,Motorola Moto Edge S30 Pro,34990,83,TRUE,FALSE,FALSE,snapdragon,8,3,8,1
 honor,Honor X8 5G,14990,75,TRUE,FALSE,FALSE,snapdragon,8,2.2,6,128,5000,1,22,6.5,720âxâ1600â,60,3,1,48,8,1,1024,android
 poco,POCO X4 GT 5G (8GB RAM + 256GB),28990,85,TRUE,TRUE,TRUE,dimensity,8,2.85,8,256,5080,1,67,6.6,1080âxâ2460â,144,3,1,64,16,0,,android
 motorola,Motorola Moto G91 5G,19990,80,TRUE,TRUE,FALSE,snapdragon,8,2.2,6,128,5000,1,,6.8,1080âxâ2400â,60,3,1,108,32,1,1024,android
-iphone,iPhone 17 Pro Max, A19 Pro (3nm), 48MP Triple (with 24MP Front), 4800mAh, 159900,Ios
+iphone,iPhone 17 Pro Max, A19 Pro (3nm),1,49,900,12,256,512,IOS
 samsung,Samsung Galaxy M52s 5G,24990,74,TRUE,FALSE,FALSE,,8,,8,128,5000,1,,6.5,1080âxâ2400â,60,3,1,64,32,1,1024,android
+
